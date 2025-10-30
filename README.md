@@ -1,6 +1,6 @@
 # 🍔 Mesen Makanan App
 
-**Aplikasi pemesanan makanan *online* yang dibuat 100% menggunakan Kotlin dan Jetpack Compose (Material 3).**
+**Aplikasi pemesanan makanan *online*.**
 
 ---
 
@@ -14,7 +14,3 @@ Aplikasi ini mencakup alur penuh dari pendaftaran hingga konfirmasi order:
 
 ---
 
-
-**Kredensial Default untuk Login:**
-* **Username:** `admin`
-* **Password:** `password123`
