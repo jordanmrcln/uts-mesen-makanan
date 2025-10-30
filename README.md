@@ -22,3 +22,4 @@ Aplikasi mobile pemesanan makanan *online* (Food Ordering App) yang dibuat mengg
 ## 📄 Struktur Proyek
 
 Proyek mengikuti struktur standar Android, di mana semua *screen* utama berada di bawah *package* `activities`.
+<img width="1080" height="2400" alt="Screenshot_20251030_120135" src="https://github.com/user-attachments/assets/a9ca3b4d-4d8c-48ae-bcef-b86f30ab79c9" />
