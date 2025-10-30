@@ -14,3 +14,4 @@ Aplikasi ini mencakup alur penuh dari pendaftaran hingga konfirmasi order:
 
 ---
 
+**BISMILLAH NILAI BAGUS LAGI (AAAMIIINNN)**
