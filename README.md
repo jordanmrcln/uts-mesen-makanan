@@ -1,25 +1,36 @@
 # 🍔 Mesen Makanan App
 
-Aplikasi mobile pemesanan makanan *online* (Food Ordering App) yang dibuat menggunakan **Jetpack Compose** untuk antarmuka pengguna modern dan *reactive*. Aplikasi ini mensimulasikan alur pengguna dasar mulai dari pendaftaran hingga konfirmasi pemesanan.
+**Aplikasi pemesanan makanan *online* yang dibuat 100% menggunakan Kotlin dan Jetpack Compose (Material 3).**
 
-## ✨ Fitur Utama (Features)
+---
 
-* **Pendaftaran & Autentikasi Persisten:** Pengguna dapat mendaftar dan *login*. Data pendaftaran disimpan secara lokal menggunakan **SharedPreferences** (simulasi *database* lokal).
-* **Splash Screen:** Layar sambutan awal.
-* **Daftar Menu Interaktif:** Menampilkan daftar 10 menu makanan dengan harga yang dapat di-*scroll* (menggunakan `LazyColumn`).
-* **Detail Menu:** Navigasi dari daftar menu ke halaman detail item.
-* **Alur Pemesanan:** Alur yang mengarahkan pengguna dari pemilihan menu $\rightarrow$ detail alamat $\rightarrow$ konfirmasi $\rightarrow$ sukses.
-* **Desain Material 3 (M3):** Menggunakan komponen dan tipografi terbaru dari Jetpack Compose Material 3.
+### ✨ Alur Aplikasi
 
-## 💻 Teknologi yang Digunakan (Tech Stack)
+Aplikasi ini mencakup alur penuh dari pendaftaran hingga konfirmasi order:
 
-* **Bahasa Pemrograman:** Kotlin
-* **UI Framework:** Jetpack Compose
-* **Navigasi:** Compose Navigation
-* **Penyimpanan Lokal:** SharedPreferences (dengan Gson untuk persistensi data `User`)
-* **Arsitektur:** Sederhana (Compose Screens & State Hoisting di `MainActivity`)
+1.  **Register & Login:** Data disimpan secara **lokal (persistent)**.
+2.  **Daftar Menu:** Menampilkan 10 item makanan yang bisa di-*scroll*.
+3.  **Detail Menu** $\rightarrow$ **Address** $\rightarrow$ **Konfirmasi** $\rightarrow$ **Sukses**.
 
-## 📄 Struktur Proyek
+---
 
-Proyek mengikuti struktur standar Android, di mana semua *screen* utama berada di bawah *package* `activities`.
-<img width="1080" height="2400" alt="Screenshot_20251030_120135" src="https://github.com/user-attachments/assets/a9ca3b4d-4d8c-48ae-bcef-b86f30ab79c9" />
+### 💻 Teknologi
+
+| Komponen | Teknologi |
+| :--- | :--- |
+| **Bahasa** | Kotlin |
+| **UI** | Jetpack Compose (M3) |
+| **Data Lokal** | SharedPreferences |
+| **Navigasi** | Compose Navigation |
+
+---
+
+### 🚀 Cara Menjalankan
+
+1.  **Clone** repositori ini.
+2.  Buka di **Android Studio**.
+3.  Jalankan aplikasi.
+
+**Kredensial Default untuk Login:**
+* **Username:** `admin`
+* **Password:** `password123`
