@@ -15,7 +15,7 @@ Aplikasi ini mencakup alur penuh dari pendaftaran hingga konfirmasi order:
 ---
 
 **BISMILLAH NILAI BAGUS LAGI (AAAMIIINNN)**
-<img width="1080" height="2400" alt="Screenshot_20251030_120135" src="https://github.com/user-attachments/assets/e39b0721-9046-433b-8c4e-500118641dad" />
+<img width="1080" height="2400" alt="Screenshot_20251030_120135" src="https://github.com/user-attachments/assets/e39b0721-9046-433b-8c4e-500118641dad" /> <img width="1080" height="2400" alt="Screenshot_20251030_120619" src="https://github.com/user-attachments/assets/4f5fa945-99b9-4e89-b596-393ebbfee034" />
 <img width="1080" height="2400" alt="Screenshot_20251030_120619" src="https://github.com/user-attachments/assets/4f5fa945-99b9-4e89-b596-393ebbfee034" />
 <img width="1080" height="2400" alt="Screenshot_20251030_120634" src="https://github.com/user-attachments/assets/e27256cc-79ce-4c06-820d-963440ab053d" />
 <img width="1080" height="2400" alt="Screenshot_20251030_120705" src="https://github.com/user-attachments/assets/f7228ce5-77b8-456b-9761-0ba48f6efa74" />
