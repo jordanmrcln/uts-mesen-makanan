@@ -14,22 +14,6 @@ Aplikasi ini mencakup alur penuh dari pendaftaran hingga konfirmasi order:
 
 ---
 
-### 💻 Teknologi
-
-| Komponen | Teknologi |
-| :--- | :--- |
-| **Bahasa** | Kotlin |
-| **UI** | Jetpack Compose (M3) |
-| **Data Lokal** | SharedPreferences |
-| **Navigasi** | Compose Navigation |
-
----
-
-### 🚀 Cara Menjalankan
-
-1.  **Clone** repositori ini.
-2.  Buka di **Android Studio**.
-3.  Jalankan aplikasi.
 
 **Kredensial Default untuk Login:**
 * **Username:** `admin`
